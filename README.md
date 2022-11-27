@@ -2,7 +2,7 @@
 itszw(itszw) Tarafından Yapılmıştır
 
 ## Fen
-- [Fen Projesine Gitmek İçin]([https://github.com/itszwyedek](https://raw.githubusercontent.com/itszwyedek/proje/main/Okul%20Projesi/Kan%20Verelim%20HayatBulal%C4%B1m.jpg)) (Tıklayınız)## Öneriler
+- [Fen_Projesine_Gitmek_İçin_Tıklayın](https://tinyurl.com/mt9jtawd)
 
 ```## Öneriler
 https://raw.githubusercontent.com/itszwyedek/proje/main/Okul%20Projesi/Kan%20Verelim%20HayatBulal%C4%B1m.jpg
