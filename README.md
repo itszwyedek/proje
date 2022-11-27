@@ -2,7 +2,8 @@
 itszw(itszw) Tarafından Yapılmıştır
 
 ## Fen
-```link
+* [Fen Projesine Gitmek İçin Tıklayın]([https://choosealicense.com](https://raw.githubusercontent.com/itszwyedek/proje/main/Okul%20Projesi/Kan%20Verelim%20HayatBulal%C4%B1m.jpg))
+```
 https://raw.githubusercontent.com/itszwyedek/proje/main/Okul%20Projesi/Kan%20Verelim%20HayatBulal%C4%B1m.jpg
 ```
 
